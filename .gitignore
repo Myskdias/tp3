@@ -1,0 +1,9 @@
+data/
+
+# modèles / checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# autres gros fichiers éventuels
+*.zip
